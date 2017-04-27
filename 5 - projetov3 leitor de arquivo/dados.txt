@@ -1,0 +1,27 @@
++	Verde	Grande	10	20.50
++	Azul	Pequena	5	18.00
++	Amarelo	Media	1	13.70
++	Verde	Media	5	10.50
+-	Verde	Grande	3	22.00
++	Rosa	Pequena	10	9.80
++	Branca	ExtraG	5	12.50
+-	Azul	Pequena	3	21.30
+-	Branca	ExtraG	1	15.90
+\
+*
+/
++	Branca	Media	5	19.80
+-	Azul 	Pequena	1	21.00
+-	Amarelo	Media	1	16.80
+*
+-	Rosa	Pequena	6	11.30
+-	Rosa	Pequena	2	11.30
+/
+\
++	Roxa	Media	20	13.30
++	Preta	Grande	20	11.20
+/
+-	Preta	Grande	15	13.90
+*
+>	15
+!		
